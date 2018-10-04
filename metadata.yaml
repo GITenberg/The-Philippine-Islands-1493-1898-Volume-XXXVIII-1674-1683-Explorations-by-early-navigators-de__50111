@@ -33,6 +33,8 @@ language: en
 publisher: Project Gutenberg
 rights: Public domain in the USA.
 rights_url: http://creativecommons.org/about/pdm
+subjects:
+- GITenberg
 title: 'The Philippine Islands, 1493-1898, Volume XXXVIII, 1674-1683
 
   Explorations by early navigators, descriptions of the
